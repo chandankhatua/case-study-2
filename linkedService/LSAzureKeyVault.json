@@ -1,0 +1,11 @@
+{
+	"name": "LSAzureKeyVault",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-grp3-cs2.vault.azure.net/"
+		}
+	}
+}
